@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mertol</h1>
+<h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">Full-stack developer, eager to learn JS technologies and enjoy making art with them.</h3>
 
 <!-- - 🔭 I’m currently working on **Lean Scale** -->
